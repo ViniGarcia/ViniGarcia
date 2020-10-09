@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Vinicius :wave:
 
-<!--
-**ViniGarcia/ViniGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a researcher, developer, and ...!!
 
-Here are some ideas to get you started:
+- My most recent article is entitled "Network Service Topology: Formalization, Taxonomy and the CUSTOM Specification Model" :page_with_curl:
+- My most recent coding project is entitled "COVEN-On-OSv" :computer:
+- About 2020: my goal is just survive all this madness :woozy_face:
+- Fun fact: Yes, they exist! :alien:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="http://www.inf.ufpr.br/vfgarcia/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://orcid.org/0000-0003-1544-6315" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/orcid.svg" />][orcid]
+[<img align="left" alt="https://www.researchgate.net/profile/Vinicius_Garcia4" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/researchgate.svg" />][researchgate]
+[<img align="left" alt="https://www.instagram.com/vinifulber/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://www.facebook.com/vinicius.garcia.129" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />][facebook]
