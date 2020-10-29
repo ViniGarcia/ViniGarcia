@@ -4,8 +4,8 @@
 
 - My most recent article is entitled "Network Service Topology: Formalization, Taxonomy and the CUSTOM Specification Model" :page_with_curl:
 - My most recent coding project is entitled "COVEN-On-OSv" :computer:
-- About 2020: My goal is just survive all this madness :woozy_face:
-- Fun fact: Yes, they exist! :alien:
+- About 2020: my goal is just to survive all this madness :woozy_face:
+- Fun fact: yes, they exist! :alien:
 
 ### Connect with me:
 
