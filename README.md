@@ -2,7 +2,7 @@
 
 ## I'm a researcher, developer, and ...!!
 
-- My most recent article is entitled "Network Service Topology: Formalization, Taxonomy and the CUSTOM Specification Model" :page_with_curl:
+- My most recent article is entitled "Customizable Deployment of NFV Services" :page_with_curl:
 - My most recent coding project is entitled "HoLMES" :computer:
 - About 2021: just waiting for it (#goawaycovid) :syringe:
 - Fun fact: yes, they exist! :alien:
