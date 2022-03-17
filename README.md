@@ -3,8 +3,8 @@
 ## I'm a researcher, developer, and ...!!
 
 - My most recent article is entitled "Customizable Deployment of NFV Services" :page_with_curl:
-- My most recent coding project is entitled "HoLMES" :computer:
-- About 2021: just waiting for it (#goawaycovid) :syringe:
+- My most recent coding project is entitled "SINR GeTS" :computer:
+- About 2022: a little big trip maybe? :airplane:
 - Fun fact: yes, they exist! :alien:
 
 ### Connect with me:
