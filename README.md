@@ -4,8 +4,8 @@
 
 - My most recent article is entitled "Customizable Deployment of NFV Services" :page_with_curl:
 - My most recent coding project is entitled "SINR GeTS" :computer:
-- About 2022: a little big trip maybe? :airplane:
-- Fun fact: yes, they exist! :alien:
+- About 2023: professional challenges coming up :office_worker:
+- Fun fact: Man Plans, and God Laughs :laughing:
 
 ### Connect with me:
 
