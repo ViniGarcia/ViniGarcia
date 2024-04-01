@@ -2,9 +2,9 @@
 
 ## I'm a researcher, developer, and ...!!
 
-- My most recent article is entitled "Intelligent Mapping of Virtualized Services on Multi-Domain Networks" :page_with_curl:
-- My most recent coding project is entitled "SINR GeTS" :computer:
-- About 2023: professional challenges coming up :office_worker:
+- My most recent article is entitled "An ETSI-Compliant Architecture for the Element Management System: The Key for Holistic NFV Management" :page_with_curl:
+- My most recent coding project is entitled "Service Mapping Expedient for Networked Traffic and Environments" :computer:
+- About 2024: hey! Let's study something new? :office_worker:
 - Fun fact: man plans, and God laughs :laughing:
 
 ### Connect with me:
